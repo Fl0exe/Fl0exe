@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Florian, a [DHBW](https://dhbw.de) student in software development. I love coding and learning new things, and I'm always looking for ways to improve my skills.
+I'm Florian, a [DHBW](https://www.dhbw.de/) student in software development. I love coding and learning new things, and I'm always looking for ways to improve my skills.
 
 ## 🔧 Skills
 
@@ -9,8 +9,10 @@ I'm Florian, a [DHBW](https://dhbw.de) student in software development. I love c
 - IntelliJ IDEA
 - PyCharm
 - Rider
+- WebStorm
 - GitKraken
 - VmWare Workstation / Fusion / Player
+- Hyper-V
 
 ### Databases:
 - MySQL
@@ -26,12 +28,18 @@ I'm Florian, a [DHBW](https://dhbw.de) student in software development. I love c
 - C++
 - C++
 
+### Frameworks
+- Next.js
+- React
+- .NET Framework (C#)
+- TypeScript
+- Node.js
+
 ## 🌱 Learning
 
 I'm always looking to expand my knowledge and learn new things. Some of the topics I'm currently interested in include:
 
-- TypeScript
-- Node.js
+- DuckyScript (Educational purposes only 😅)
 
 ## 🧑‍💻 Best coding music:
 
