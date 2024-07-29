@@ -41,7 +41,7 @@ I'm always looking to expand my knowledge and learn new things. Some of the topi
 
 - DuckyScript (Educational purposes only 😅)
 
-## 🧑‍💻 Best coding music:
+## 💻 Best coding music:
 
 [<img src="/apple.png" height="13"> Apple Music](https://geo.music.apple.com/de/album/_/1485892939?i=1485892947)<br>
 [<img src="/spotify.png" height="13"> Spotify](https://open.spotify.com/track/5Ec0oMpXOGuvtHtAwGkGmp)<br>
